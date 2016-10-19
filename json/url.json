@@ -130,6 +130,10 @@
             {
                 "name": "SegmentFault",
                 "url": "https://segmentfault.com/"
+            },
+             {
+                "name": "color",
+                "url": "http://www.color-themes.com/?view=index"
             }
         ]
     },
