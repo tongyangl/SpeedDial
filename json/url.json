@@ -70,8 +70,8 @@
                 "url": "http://next.36kr.com/posts"
             },
             {
-                "name": "开源资讯",
-                "url": "http://www.oschina.net/news/list?show=project"
+                "name": "开源中国",
+                "url": "https://www.oschina.net/"
             },
             {
                 "name": "博客园",
@@ -110,6 +110,20 @@
                 "name": "HumbleBundle",
                 "url": "https://www.humblebundle.com/"
             }
+        ]
+    },
+    {
+        "tit": "邮箱",
+        "list": [
+            {
+                "name": "QQ邮箱",
+                "url": "https://mail.qq.com/cgi-bin/frame_html?sid=XqrBmO4dCwoMUDpi&r=6ae5edc15a6c34c8a6115f795aff3e84"
+            },
+            {
+                "name": "网易163邮箱",
+                "url": "http://mail.163.com/js6/main.jsp?sid=wAYbFbrsfhAjylvKNPssdUSHEeuTjdnr&df=mail163_letter#module=welcome.WelcomeModule%7C%7B%7D"
+            },
+           
         ]
     },
     {
