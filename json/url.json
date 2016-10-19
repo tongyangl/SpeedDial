@@ -11,8 +11,8 @@
                 "url": "http://steamcn.com/"
             },
             {
-                "name": "Twitter",
-                "url": "https://twitter.com/"
+                "name": "weibo",
+                "url": "https://http://weibo.com.com/"
             }
         ]
     },
@@ -30,6 +30,10 @@
             {
                 "name": "Startup News",
                 "url": "http://news.dbanotes.net/"
+            },
+             {
+                "name": "网易新闻",
+                "url": "http://news.163.com//"
             }
         ]
     },
