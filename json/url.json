@@ -12,7 +12,11 @@
             },
             {
                 "name": "weibo",
-                "url": "https://http://weibo.com.com/"
+                "url": "https:weibo.com/"
+            },
+              {
+                "name": "百度",
+                "url": "https:baidu.com/"
             }
         ]
     },
