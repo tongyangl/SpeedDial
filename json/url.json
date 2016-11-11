@@ -126,10 +126,8 @@
     {
         "tit": "刷题",
         "list": [
-            {
-                "name": "牛客网",
-                "url": "http://www.nowcoder.com/"
-            },
+            
+
             {
                 "name": "Codewars",
                 "url": "https://www.codewars.com/"
